@@ -1,0 +1,2 @@
+# latingames
+pagina de videojuegos
